@@ -1,0 +1,74 @@
+html{height: 100%;}
+body{margin:0;padding:0;min-height: 100%;}
+.carousel-inner img{height:600px}
+.all-tag h2{text-align:center;background-color:#243665;outline:#41be92 solid 3px;position:relative;padding:5px 15px;margin-right:12%;color:#fff;margin-bottom:40px;display:inline-block;font-family:tahoma}
+.policy-area{background-image:linear-gradient(to right,rgba(70,190,146,.5) ,rgba(47,71,131,.466))}
+.feature_box h6{padding:0 20px;font-family:tahoma;font-weight:800}
+.feature_box p{padding:0 20px;font-family:Poppins;font-weight:500;font-size:14px}
+.policy-area .feature_box .feature_image{height:120px;width:120px;border-radius:100%;margin:20px}
+.feature_box{text-align:center;margin-top:10px;margin-bottom:50px}
+.hot-product{background-color:#e2e7f5}
+.hot-item-top img{width:100%;height:350px}
+.hot-item-bottom{text-align:center;margin-bottom:20px;margin-top:20px}
+.hot-item-bottom h5{color:#243665;font-size:22px;font-weight:600;margin-top:10px}
+.hot-item-bottom h6{color:#243665;font-size:17px;font-weight:500}
+.hot-item-bottom a{cursor:pointer}
+.hot-item-top:hover .hot-item-bottom{opacity:1;margin-left:3%;transition:.5s}
+.slider-area{padding:30px 50px;background-color:#f5f5f5}
+#item{width:100%;background-color:#fff;text-align:center}
+#item img{padding-top:20px;width:100%;height:300px;text-align:center}
+.review-area{padding:50px 0;background-image:linear-gradient(to right,rgba(70,190,146,.5) ,rgba(47,71,131,.466))}
+.review-video{margin-top:20px;margin-bottom:10px}
+.promo{background:url(https://images.pexels.com/photos/34088/pexels-photo.jpg);background-size:cover;position:relative;height:400px;width:auto}
+.promo .promo-overlay{background:rgba(232,75,57,.2);width:100%;height:100%;position:absolute;top:0;left:0;z-index:2}
+.promo .promo-overlay .promo-content{text-align:center}
+.promo .promo-overlay .promo-content h2{text-transform:capitalize;font-weight:200;color:#fff;letter-spacing:2px;padding-top:150px}
+.promo .promo-overlay .promo-content h2 span{font-weight:700}
+.promo .promo-overlay .promo-content p{margin-bottom:50px;color:#fff}
+.sec1{background:url(https://c4.wallpaperflare.com/wallpaper/834/602/559/computer-keyboards-wallpaper-preview.jpg);background-repeat:no-repeat;background-size:cover;background-position:center;position:relative;overflow:hidden;background-attachment:fixed;height:90vh;}
+.sec1 .container{margin:70px 140px;padding:40px}
+.sec1 h1{color:#41be96;font-family:Roboto Slab;font-weight:600;font-size:50px;letter-spacing:1px;text-align:center;margin-top:70px}
+.sec1 h3{text-align:center;color:#fff;font-family:Roboto Slab;font-weight:500;font-size:40px;letter-spacing:1px}
+.sec2{padding:70px 100px;box-sizing:border-box}
+.sec2 h1{text-align:center;padding-bottom:50px;font-family:"Trebuchet MS", Helvetica, sans-serif;font-weight:600;font-size:40px;letter-spacing:5px;color:#243665}
+.sec3{background-image:linear-gradient(to right,rgba(111,136,204,.5) ,rgba(61,104,89,.5));color:#fff;padding:80px 0}
+.sec3 .row:first-child{margin-bottom:30px}
+.sec3 .text{padding:0 20px;border:1px solid #2f4783;height:100%;display:flex;align-items:center;justify-content:center;flex-direction:column}
+.sec3 .row:last-child .black{background-color:#6e88cb;border:1px solid #2f4783}
+.sec3 .inner h3{font-size:32px;font-weight:800;text-transform:capitalize;margin-bottom:20px}
+.sec3 .inner img{width:100%;height:250px;box-sizing:border-box}
+.sec4{background-image:linear-gradient(to top right, #538fd9c0, rgba(61,104,89,.5)); background-size:cover;background-position:center;width:100%;}
+.sec4 .team-title h3{text-align:center;font-family:"Trebuchet MS", Helvetica, sans-serif;font-weight:600;font-size:40px;letter-spacing:1px;color:#243665}
+.sec5{background:url(https://c4.wallpaperflare.com/wallpaper/834/602/559/computer-keyboards-wallpaper-preview.jpg);background-repeat:no-repeat;background-size:cover;background-position:center;position:relative;overflow:hidden;background-attachment:fixed;height:400px}
+.sec5 .overlay2{background-image:linear-gradient(to right,rgba(154,172,219,.5) ,rgba(47,71,131,.5));padding:180px 100px}
+.sec5 .overlay2 h3{color:#ddd}
+.product-area .card img{height:250px;width:100%;}
+.profile-area{background-color:#f5f5f5;}
+.invoice-area{background-color:#f5f5f5;}
+.payment .card{max-width:500px;margin:auto;color:#000;border-radius:20px}
+.payment .card .h8{font-size:30px;font-weight:800;text-align:center}
+.payment .btn.btn-primary{height:45px;display:flex;align-items:center;margin-top:5px;padding:0 15px;background-image:linear-gradient(to right,#77a1d3 0,#79cbca 51%,#77a1d3 100%);border:none;transition:.5s;background-size:200% auto}
+.payment .btn.btn.btn-primary:hover{background-position:right center;color:#fff;text-decoration:none}
+.payment .btn.btn-primary .bi.bi-arrow-right-circle{margin-left:260px}
+.payment .btn.btn-primary:hover .bi.bi-arrow-right-circle{transform:translate(15px);transition:transform .2s ease-in}
+.payment .form-control{color:#fff;background-color:#223c60;border:2px solid transparent;height:45px;padding-left:20px;vertical-align:middle}
+.payment .form-control:focus{color:#fff;background-color:#0c4160;border:2px solid #fff;box-shadow:none}
+.payment .text{font-size:14px;font-weight:600}
+.contact {padding:50px 0;background-image:#c5c5c5}
+.contact .rounded-3{background:#fff;}
+.contact .contact-info h5{color:#2f4783;margin-bottom:15px}
+.contact .contact-info p{margin-bottom:30px}
+.login-area{background-image:linear-gradient(45deg,#3A6073, #F1F4FFFF);background-repeat:no-repeat;height:90vh;}
+.loginbox a{text-decoration:none;font-size:12px;font-weight:700;color:#243665;display:block;text-align:center}
+.loginbox a:hover{color:#41be92}
+.our-products {background:#f4f5f9;padding-bottom:20px}
+.our-products .product-image{height:400px}
+.product-image img{height:400px}
+.cart-area{background:#f4f5f9;padding-top:50px;height:90vh;}
+.cart-area .chk-btn {margin-top:30px;}
+.cart-area h3{padding-top:10px;padding-bottom:325px; font-weight:600;color:#DC143C}
+footer{padding:15px 0;background-color:#494949;color:#fff}
+.admin-area .detail-box{color: #fff;background-color: #243665;width: 220px;padding: 40px 20px;border-radius: 5px;text-align: center;margin: 0 auto 50px;box-shadow: 5px 5px 0 rgba(0,0,0,0.1);}
+.admin-area .detail-box .count{display: block;font-size: 45px;font-weight: 600;line-height: 40px;margin: 0 0 7px;}
+.admin-area .detail-box .count-tag{font-size: 16px;text-transform: uppercase;font-weight: 600;}
+.admin-area .atable .admin-table thead th {position: sticky; top: 0; z-index: 1; }
